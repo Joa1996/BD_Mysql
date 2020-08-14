@@ -33,7 +33,7 @@ public ConectarDB ()
  try {
  //poner los datos apropiados
  this.usuario = "root";
- this.clave = "1996";
+ this.clave = "****";
  this.url = "jdbc:mysql://localhost/bd1";
  this.driverClassName = "com.mysql.jdbc.Driver";
  this.conectar();
